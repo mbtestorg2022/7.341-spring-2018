@@ -65,22 +65,207 @@ The course will be graded as "pass" or "fail." A passing grade will be given to 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the human microbiome | &nbsp; |
-| {{< td-colspan 3 >}}**Small-molecule Signals, Microfluidics and Synthetic Biology**{{< /td-colspan >}} |||
-| 2 | Microbes use small molecules to communicate | &nbsp; |
-| 3 | Microfluidics technology to study the human microbiome | &nbsp; |
-| 4 | Field trip to Ginkgo Bioworks, the organism company | Field Trip to [Ginko Bioworks](https://www.ginkgobioworks.com/foundries/) |
-| 5 | Microbes engineered to detect and potentially kill pathogens | &nbsp; |
-| {{< td-colspan 3 >}}**Peptide Signals for Defense, Therapeutics and Competence**{{< /td-colspan >}} |||
-| 6 | Microbes use peptides as a defense and as signals | &nbsp; |
-| 7 | Drug delivery using microbes engineered to secrete peptides | Written Assignment due |
-| 8 | Competence-stimulating peptides as cross-species signals | &nbsp; |
-| {{< td-colspan 3 >}}**The Future of the Microbiome for Human Health**{{< /td-colspan >}} |||
-| 9 | Using seminars and talks for sharing scientific discoveries | &nbsp; |
-| 10 | Advance culturing techniques to study microbiomes | Paper Distributed for Final Presentation |
-| 11 | Host-generated peptides shape their microbiomes | &nbsp; |
-| 12 | Microbes as neuromodulators | &nbsp; |
-| 13 | Microbes as cancer therapeutics | &nbsp; |
-| 14 | Oral presentations, conclusion and closing remarks | Final Presentations Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the human microbiome
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Small-molecule Signals, Microfluidics and Synthetic Biology**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Microbes use small molecules to communicate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Microfluidics technology to study the human microbiome
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to Ginkgo Bioworks, the organism company
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to [Ginko Bioworks](https://www.ginkgobioworks.com/foundries/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Microbes engineered to detect and potentially kill pathogens
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Peptide Signals for Defense, Therapeutics and Competence**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Microbes use peptides as a defense and as signals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Drug delivery using microbes engineered to secrete peptides
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Competence-stimulating peptides as cross-species signals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**The Future of the Microbiome for Human Health**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Using seminars and talks for sharing scientific discoveries
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Advance culturing techniques to study microbiomes
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Distributed for Final Presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Host-generated peptides shape their microbiomes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Microbes as neuromodulators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Microbes as cancer therapeutics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations, conclusion and closing remarks
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
