@@ -16,9 +16,9 @@ A general knowledge of molecular biology, biochemistry or cell biology will be h
 
 _7.05 Biological Chemistry_
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 or their equivalents. Chemistry, Chemical Engineering, and Bioengineering students are highly encouraged to attend.
 

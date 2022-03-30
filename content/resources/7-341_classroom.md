@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 263aa0f3-b7af-bfea-a0fa-1de08381879b
 resourcetype: Image
 title: 7.341_classroom.jpg
 uid: 8324cdeb-9b1a-ed54-5063-a5b1006856b2
